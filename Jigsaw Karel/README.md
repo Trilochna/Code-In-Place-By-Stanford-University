@@ -11,10 +11,8 @@ Karel is almost done but not finished yet. Bellow is the current state of Karel'
 
 To reiterate, you should write the sequence of commands so that Karel will:
 
-Move to and pick up the last puzzle piece (the beeper in row 1, column 3)
-
-Put the puzzle piece in place (row 3, column 4)
-
-Return Karel to her initial position
+1. Move to and pick up the last puzzle piece (the beeper in row 1, column 3)
+2. Put the puzzle piece in place (row 3, column 4)
+3. Return Karel to her initial position
 
 Although the program does not have many lines of code, it is still worth getting some practice with decomposition. In your solution, include a function for each of the three steps shown in the outline above.
