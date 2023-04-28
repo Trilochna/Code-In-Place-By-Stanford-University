@@ -7,9 +7,9 @@ The "editor" is the area to the right with the tab heading "main.py" where you c
 
 Your program should have a main function with three commands:
 
-move()
-pick_beeper()
-move()
+1. move()
+2. pick_beeper()
+3. move()
 
 When you hit the run button, your program will execute line-by-line. After it finishes, Karel's world should look like this:
 
