@@ -1,2 +1,3 @@
 # Code-In-Place-By-Stanford-University
-Karel Codes
+
+Karel Codes and Code In Place 2023 Solutions
