@@ -76,3 +76,8 @@ As a side note, one of the earliest programs Mehran wrote (with his friend Matth
 Beyond addition?
 
 There is no limit to how awesome you can make your learning software. Can you get it to teach? Can you get it to offer problems other than addition? Get creative! Have fun!
+
+OUTPUT : 
+
+![image](https://github.com/Trilochna/Code-In-Place-By-Stanford-University/assets/97858274/de3f8d16-57f9-4cf3-b60b-9abc3b7a9843)
+
