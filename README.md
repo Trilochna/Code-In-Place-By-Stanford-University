@@ -11,11 +11,6 @@ Karel Codes and Code In Place 2023 Solutions -->
   </p>
 </p>
 
-[![GitHub](https://img.shields.io/static/v1.svg?label=Collaborators&message=1&color=success&logo=github&style=social)](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/graphs/contributors)
-  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)]([https://www.linkedin.com/in/xiaowuc2](https://www.linkedin.com/in/trilochnavaid/))
-    <a href="https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-
 ```diff
 
 Code in Place is an act of community service over 900 teachers from around the world came together to 
@@ -30,13 +25,6 @@ in Python.
 ✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
 ❌ If not, point out 'why' and spam the issue section 🚩 
 ```
-
-### Assignment Solution
-
-- Assignment-1 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-1) | [Video Explanation](https://youtu.be/5JpVuQNYoho)
-- Assignemnt-2 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-2) | [Video Explanation](https://youtu.be/0IURrcpNZmk)
-- Diagnostic W2: [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Diagnostic) | [Video Explanation](https://youtu.be/u8uqTBNZvAY)
-- Assignment-3 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-3) | [Video Explanation](https://youtu.be/kj9wWXW_QL4)
 
 ### Contributing
 
