@@ -34,4 +34,5 @@ Any kind of contributions to `Trilochna/Code-In-Place-By-Stanford-University` ar
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/pulls)
 
-### * Connect on LinkedIn [@trilochnavaid](https://www.linkedin.com/in/trilochnavaid/)
+## Connect on LinkedIn - [@trilochnavaid](https://www.linkedin.com/in/trilochnavaid/)
+## Follow on Twitter - [@Trilochna_](https://twitter.com/Trilochna_?t=agueXGDisZhlbtToVmYwwg&s=09)
