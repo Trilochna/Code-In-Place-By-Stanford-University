@@ -12,8 +12,7 @@ Karel Codes and Code In Place 2023 Solutions -->
 </p>
 
 [![GitHub](https://img.shields.io/static/v1.svg?label=Collaborators&message=1&color=success&logo=github&style=social)](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/graphs/contributors)
-[![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
-  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)]([https://www.linkedin.com/in/xiaowuc2](https://www.linkedin.com/in/trilochnavaid/))
     <a href="https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 
