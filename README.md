@@ -28,15 +28,10 @@ in Python.
 
 ### Contributing
 
-Any kind of contributions to `xiaowuc2/Code-in-Place-2021-Assignment-Solution` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
+Any kind of contributions to `Trilochna/Code-In-Place-By-Stanford-University` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
 
 1. [Fork](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/fork) the Project
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/pulls)
 
-### Become Official Member @qxresearch
-
-[qxresearch](https://github.com/qxresearch) Contributor : 150+ | Star : 120+ | Fork : 85+
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Connect on LinkedIn [@trilochnavaid](https://www.linkedin.com/in/trilochnavaid/)
