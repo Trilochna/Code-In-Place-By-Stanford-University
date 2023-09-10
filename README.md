@@ -6,7 +6,7 @@ Karel Codes and Code In Place 2023 Solutions -->
   <a href="https://codeinplace.stanford.edu">
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo">
   </a>
-  <h3 align="center">Code in Place 2023 and Karel Solutions</h3>
+  <h3 align="center">Code in Place 2023 and Karel Solutions</h3>  
   <p align="center">
   </p>
 </p>
