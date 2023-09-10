@@ -22,7 +22,7 @@ in Python.
 
 ### README
 ```
-✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
+✔️ If you think this repository has helped you learn something new you can give a star ⭐   
 ❌ If not, point out 'why' and spam the issue section 🚩   
 ```
 
